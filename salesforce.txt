@@ -1,0 +1,5 @@
+Twillo API for VerificationCode
+
+https://www.google.com/search?q=how+to+handle+otp+verification+code+in+selenium&rlz=1C1CHBF_enIN885IN885&oq=&aqs=chrome.0.35i39l8.158533672j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_UT8HX6WQFvyR4-EP4Iu7qAQ36
+
+To deactivate Verification - Profiles -> System Administrator -> Login IP Ranges from 0.0.0.0 - 255.255.255.255
