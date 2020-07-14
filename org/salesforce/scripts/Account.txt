@@ -1,0 +1,14 @@
+1. Login to https://login.salesforce.com/?locale=in
+2. Click on Applauncher
+3. Click on Services
+4. Click on the Account link 
+5. Click on the New Button
+6. Enter the Account Name
+7. Ener the PhoneNumber
+8. Click on Save Button
+9. click on more options down arrow
+10. click on Submit of Approval
+11. Comment on textArea
+12. Click on Submit Button
+13. Verify Text displayed
+14. Close the notification
