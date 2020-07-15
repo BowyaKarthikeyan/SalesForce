@@ -1,0 +1,19 @@
+Custom App
+1) Click on ObjectManager
+2) Click on create
+3) Click on custom Object
+4) Enter the label Name
+5) Enter the Plural label Name
+6) Select DataType as AutoNumber
+7) Enter the Display Format
+8) Enter the Starting Number
+9) Check the Allow Reports
+10) Check the Allow Activities
+11) Check the Track Field History
+12) check the Allow Search
+13) Check the Add Notes and Attachments
+14) Check the New Custom Tab Wizard
+15) Click the Save Button
+16) Select Object
+17) choose the image
+
